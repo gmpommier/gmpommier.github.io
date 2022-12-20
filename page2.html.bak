@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link href="style.css" rel="stylesheet" media="all" type="text/css">
+    <title></title>
+  </head>
+  <body>
+    <h1>hihi</h1>
+    
+    <a href="index.html">Website</a>
+    
+    
+    <a href="index.html">Retour</a>
+  </body>
+</html>
